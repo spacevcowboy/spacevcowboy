@@ -26,6 +26,3 @@ I am a Computer Applications student focused on defensive security, threat detec
 - **LinkedIn:** https://www.linkedin.com/in/adnan141/
 - **TryHackMe:** https://tryhackme.com/p/thehomieadnan
 - **Email:** thehomieadnan@gmail.com
-- "Cybersecurity is a continuous cycle of protection, detection, response, and recovery."
-
-— Chris Painter
