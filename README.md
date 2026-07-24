@@ -26,4 +26,6 @@ I am a Computer Applications student focused on defensive security, threat detec
 - **LinkedIn:** https://www.linkedin.com/in/adnan141/
 - **TryHackMe:** https://tryhackme.com/p/thehomieadnan
 - **Email:** thehomieadnan@gmail.com
-“Defense in depth is not just a strategy—it’s a mindset.”
+- "Cybersecurity is a continuous cycle of protection, detection, response, and recovery."
+
+— Chris Painter
